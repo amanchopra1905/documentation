@@ -142,7 +142,6 @@ await secondToggleButton.click();
 ```
 
 ### Step 5: Execute and Monitor your Test
-
 Now execute your tests and visit the [Automation Dashboard](https://accounts.lambdatest.com/dashboard). Click on the Accessibility tab and check the report generated.
 
 ```bash
